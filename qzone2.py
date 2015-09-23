@@ -1050,7 +1050,7 @@ class QQ:
 
 if __name__ == '__main__':
 
-    qq = QQ(user="1471242852", pwd="CY19930811")
+    qq = QQ(user="qq", pwd="passwd")
     try:
         mode = int(sys.argv[1])
 
