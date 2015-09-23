@@ -1,0 +1,122 @@
+
+ http://check.ptlogin2.qq.com/check?regmaster=&pt_tea=1&pt_vcode=1&uin=1471242852&appid=549000912&js_ver=10126&js_type=1&login_sig=w18u51EubDkQqdzBDSRyeJeIdhjhKJORNTMQ5xQey4uqeXeSgEUN0qNavhuzwS0J&u1=http%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&r=0.26863838415170416 HTTP/1.1
+
+
+regmaster
+pt_tea	1
+pt_vcode	1
+uin	1471242852
+appid	549000912
+js_ver	10126
+js_type	1
+login_sig	w18u51EubDkQqdzBDSRyeJeIdhjhKJORNTMQ5xQey4uqeXeSgEUN0qNavhuzwS0J
+u1	http://qzs.qq.com/qzone/v5/loginsucc.html?para=izone
+r	0.26863838415170416
+
+
+
+
+
+GET http://ptlogin2.qq.com/login?u=1471242852&verifycode=!ASK&pt_vcode_v1=0&pt_verifysession_v1=69d980c23f2e829a26290cd6835153d3558ae8bebcde48c96fcb0b6a1fd69bffce8eaaa340b184759dceaa8aa1cc18b74f9b18462d50f0d5&p=oici2HZSxU5Lbk5ZnCHkT0ygg7qoQhOr7eQr-ljA3uKQnqb1AvPBM0DrfFT8aC5ZIew0TrEs4HH-jS*2jKMSllhcHoyypXDPYDdwOEZfG3drthaYL4GTGs1Kr3wVrmgGCvN380-xBDXA*M6aaLfe5Conh8gyYvyDUxxTuWxnvd77gN8956d03Ef7wFZDwmr4oFhm0VEY*ZpXMe0AQG4XKg__&pt_randsalt=0&u1=http%3A%2F%2Fqzs.qq.com%2Fqzone%2Fv5%2Floginsucc.html%3Fpara%3Dizone&ptredirect=0&h=1&t=1&g=1&from_ui=1&ptlang=2052&action=5-22-1434545862337&js_ver=10126&js_type=1&login_sig=w18u51EubDkQqdzBDSRyeJeIdhjhKJORNTMQ5xQey4uqeXeSgEUN0qNavhuzwS0J&pt_uistyle=32&aid=549000912&daid=5&pt_qzone_sig=1& HTTP/1.1
+Host: ptlogin2.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+Accept: */*
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://xui.ptlogin2.qq.com/cgi-bin/xlogin?proxy_url=http%3A//qzs.qq.com/qzone/v6/portal/proxy.html&daid=5&pt_qzone_sig=1&hide_title_bar=1&low_login=0&qlogin_auto_login=1&no_verifyimg=1&link_target=blank&appid=549000912&style=22&target=self&s_url=http%3A//qzs.qq.com/qzone/v5/loginsucc.html?para=izone&pt_qr_app=%E6%89%8B%E6%9C%BAQQ%E7%A9%BA%E9%97%B4&pt_qr_link=http%3A//z.qzone.com/download.html&self_regurl=http%3A//qzs.qq.com/qzone/v6/reg/index.html&pt_qr_help_link=http%3A//z.qzone.com/download.html
+Cookie: pgv_pvid=7682531568; pgv_info=ssid=s8404131600; _qz_referrer=www.baidu.com; pt_login_sig=w18u51EubDkQqdzBDSRyeJeIdhjhKJORNTMQ5xQey4uqeXeSgEUN0qNavhuzwS0J; pt_clientip=d2463b4e2f662d51; pt_serverip=043eac118b6e66b2; pt_local_token=-248575413; uikey=5f2a5b480e649319baf777045ed746c32ddfd965a6bb1247be7901d927656a23; qrsig=AGlAOhMsaj2rIdy8geDjCP7KBO7M76zumsKW-KjTqsyuGVETNDUvWeLd39f-vUPt; confirmuin=0; ptvfsession=69d980c23f2e829a26290cd6835153d3558ae8bebcde48c96fcb0b6a1fd69bffce8eaaa340b184759dceaa8aa1cc18b74f9b18462d50f0d5; ptisp=edu; ptui_loginuin=1471242852
+Connection: keep-alive
+
+
+
+u	1471242852
+verifycode	!ASK
+pt_vcode_v1	0
+pt_verifysession_v1	69d980c23f2e829a26290cd6835153d3558ae8bebcde48c96fcb0b6a1fd69bffce8eaaa340b184759dceaa8aa1cc18b74f9b18462d50f0d5
+p	oici2HZSxU5Lbk5ZnCHkT0ygg7qoQhOr7eQr-ljA3uKQnqb1AvPBM0DrfFT8aC5ZIew0TrEs4HH-jS*2jKMSllhcHoyypXDPYDdwOEZfG3drthaYL4GTGs1Kr3wVrmgGCvN380-xBDXA*M6aaLfe5Conh8gyYvyDUxxTuWxnvd77gN8956d03Ef7wFZDwmr4oFhm0VEY*ZpXMe0AQG4XKg__
+pt_randsalt	0
+u1	http://qzs.qq.com/qzone/v5/loginsucc.html?para=izone
+ptredirect	0
+h	1
+t	1
+g	1
+from_ui	1
+ptlang	2052
+action	5-22-1434545862337
+js_ver	10126
+js_type	1
+login_sig	w18u51EubDkQqdzBDSRyeJeIdhjhKJORNTMQ5xQey4uqeXeSgEUN0qNavhuzwS0J
+pt_uistyle	32
+aid	549000912
+daid	5
+pt_qzone_sig	1
+
+
+
+
+
+
+
+
+
+GET http://user.qzone.qq.com/1471242852?ptsig=LS2QFLDtFvxNqmPKuwu6EHBhl4KxdqVjgQ5eeLZbft8_ HTTP/1.1
+Host: user.qzone.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://qzs.qq.com/qzone/v5/loginsucc.html?para=izone&ptsig=LS2QFLDtFvxNqmPKuwu6EHBhl4KxdqVjgQ5eeLZbft8_
+Cookie: pgv_pvid=7682531568; pgv_info=ssid=s8404131600; _qz_referrer=www.baidu.com; pt_clientip=d2463b4e2f662d51; pt_serverip=043eac118b6e66b2; ptisp=cm; ptui_loginuin=1471242852; pt2gguin=o1471242852; uin=o1471242852; skey=@FZBki2kLo; RK=I4Hb1gDdb4; ptcz=c38bd288d9ed9a8ce6a985f4b89e381c4598f0847b12662668053cf7c11988f8; fnc=2
+Connection: keep-alive
+
+
+
+
+
+
+
+GET http://ic2.s8.qzone.qq.com/cgi-bin/feeds/feeds_html_module?i_uin=1471242852&i_login_uin=1471242852&mode=4&previewV8=1&style=35&version=8&needDelOpr=true&transparence=true&hideExtend=false&showcount=5&MORE_FEEDS_CGI=http%3A%2F%2Fic2.s8.qzone.qq.com%2Fcgi-bin%2Ffeeds%2Ffeeds_html_act_all&refer=2&paramstring=os-win7|100 HTTP/1.1
+Host: ic2.s8.qzone.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://user.qzone.qq.com/1471242852?ptsig=LS2QFLDtFvxNqmPKuwu6EHBhl4KxdqVjgQ5eeLZbft8_
+Cookie: pgv_pvid=7682531568; pgv_info=ssid=s8404131600; pt_clientip=d2463b4e2f662d51; pt_serverip=043eac118b6e66b2; ptisp=cm; ptui_loginuin=1471242852; pt2gguin=o1471242852; uin=o1471242852; skey=@FZBki2kLo; RK=I4Hb1gDdb4; ptcz=c38bd288d9ed9a8ce6a985f4b89e381c4598f0847b12662668053cf7c11988f8; fnc=2; Loading=Yes; p_skey=PEITy0yQ-iP1rYcQ5suTkr*joVbKQSSV33sd8cbFTvg_; pt4_token=Ddp-cJ6PMw-c4SRCP0kMlg__
+Connection: keep-alive
+
+
+
+
+
+i_uin	1471242852
+i_login_uin	1471242852
+mode	4
+previewV8	1
+style	35
+version	8
+needDelOpr	true
+transparence	true
+hideExtend	false
+showcount	5
+MORE_FEEDS_CGI	http://ic2.s8.qzone.qq.com/cgi-bin/feeds/feeds_html_act_all
+refer	2
+paramstring	os-win7|100
+
+
+
+//
+
+hideExtend	false
+i_login_uin	1471242852
+i_uin	1471242852
+mode	4
+MORE_FEEDS_CGI	http://ic2.s8.qzone.qq.com/cgi-bin/feeds/feeds_html_act_all
+needDelOpr	true
+paramstring	os-win7|100
+previewV8	1
+refer	2
+showcount	5
+style	35
+transparence	true
+version	8
